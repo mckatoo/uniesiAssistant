@@ -1,0 +1,8 @@
+{
+  "name": "assistant",
+  "version": "1.0.0",
+  "description": "Assistente Virtual",
+  "main": "src/server.js",
+  "author": "Milton Carlos Katoo <mckatoo@gmail.com>",
+  "license": "MIT"
+}
